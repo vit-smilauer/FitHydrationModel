@@ -5,7 +5,7 @@ Created on Jan 30, 2025
 
 @author: smilauer
 """
-#Fitting affinity and exponential hdyration model to isothermal calorimetry data
+#Fitting affinity and exponential hydration model to isothermal calorimetry data
 
 import sys
 import numpy as np
